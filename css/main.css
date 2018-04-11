@@ -21,11 +21,8 @@ h1{
 	letter-spacing: 1em;
 }
 
-#dataContainerOrientation{
-	margin-top: 3%;
+.orientation{
+	margin: 0;
+	margin-left: 10%;
 
-}
-
-#dataContainerMotion{
-	
 }
